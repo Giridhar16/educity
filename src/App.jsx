@@ -3,7 +3,7 @@ import NavBar from "./components/nav_bar/NavBar";
 import Hero from "./components/hero/Hero";
 import Program from "./components/programs/program";
 import Title from "./components/title/Title";
-import About from "./components/about/ABout";
+import About from "./components/about/About";
 import Campus from "./components/campus/Campus";
 import Testimonials from "./components/testimonials/Testimonials";
 import ContactUs from "./components/contactus/ContactUs";
